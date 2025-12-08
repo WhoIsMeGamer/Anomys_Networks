@@ -1,13 +1,14 @@
 body {
-
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 p {
-  color: #7B68EE;
-  font-size: 30px;
+  color: rgb(138, 7, 7);
+  font-size: 20px;
   backround-color: #483D8B;
 }
 
 h1 {
   color:rgb(212, 18, 18);
+  
 }
