@@ -1,43 +1,22 @@
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  border: 7px dotted black;
-  border-radius: 15px;
+  border: 7px dashed white;
+  border-radius: 25px;
+  background-color: black;
+  color: white;
 }
 
-main h1 {
-  text-align: center;
-  color: blue;
-  background-color: dodgerblue;
-  border: 4px dashed;
-  border-radius: 7px;
-}
-
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.balda {
+  color: black;
+  font-size: 10px;
 }
 
 nav a {
-  display: block;
+  background-color: gray;
+  border-radius: 10px;
+  border: 4px solid white;
+  padding: 4px 10px;
   text-decoration: none;
   color: white;
-  background-color: blue;
-  border: 5px solid darkblue;
-  border-radius: 7px;
-  font-size: 17px;
-  padding: 5px 10px;
-  text-align: center; 
-}
-
-.why1 {
-  margin-right: auto;
-}
-
-.like1 {
-
-}
-
-.where1 {
-  margin-left: auto;
+  margin: 5px 6px;
 }
